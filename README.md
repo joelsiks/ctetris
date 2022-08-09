@@ -36,3 +36,10 @@ make run
 
 * <kbd>q</kbd>: Exits the game
 * <kbd>p</kbd>: Pause the game (same key to resume)
+
+## Not yet implemented
+
+- Score
+- Levels (different speed depending on how many rows have been cleared)
+- Super Rotation System (SRS) implementation
+- Wall kick
